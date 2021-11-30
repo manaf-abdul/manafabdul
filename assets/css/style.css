@@ -924,6 +924,15 @@ section {
 .button-form{
   background: #173b6c;
   color: white;
+  border: none;
+  border-radius: 20px;
+  margin-top: 0.5rem;
+  height: 2rem;
+  width: 8rem;
+}
+.button-form:hover{
+  background: #173a6cce;
+  color:white;
 }
 /*--------------------------------------------------------------
 # Footer
